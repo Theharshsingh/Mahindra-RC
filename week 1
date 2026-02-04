@@ -1,0 +1,33 @@
+            PRESENT INDIAN TECH INDUSTRY
+
+# INDUSTRIAL ROBOTS   
+
+a. ABB robots
+* welding , material handling ,painting ,assembly
+technology = multi axis articulated robot with precise motion control
+industry use = automotive plants (tata motors)
+
+b.FANUC , KUKA , YASKAWA
+* heavy duty , CNC machines , automobile assembly
+works= programmed path +sensors
+cost=5-50 lakhs 
+
+c. universal robots (UK)
+UR18 "mega cobot" = 18 kg payload capacity
+collaborative robots designed to work alognside humans without fences
+programmmed = hand guiding /tablet ui
+widely used in asia and europe
+
+
+2. cobots 
+collaborative robots  who are working alongside human safely
+with built in sensors and light weighted structures
+No safety caze is needed 
+Quick to program and redeploy
+cost= 5-25 lakh
+
+3. autonomous mobile robots (AMRs)
+move around warehouses and factories without fixed tracks and external guidance 
+use LiDAR ,cameras and onboard AI
+
+ex= addverb technologies (india) = grey orange = ai powered sorting 
