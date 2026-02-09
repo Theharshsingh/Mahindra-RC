@@ -1,0 +1,22 @@
+# M-20ia /10l
+
+properties
+MODEL: FANUC M-20iA/10L
+payload capacity = 10-25 kg 
+6 axis industrial robot (DOF =-6) 
+mostly yellow coloured
+
+
+Max reach = 2009 +_ 0.1 mm
+Repeatability = 0.03 mm
+controller = R 30ia/ 30 iB
+
+The body of the rc arm contains hollow upper arm body and wrist design
+which allows for internal cable routing, reducing the risk of damage
+ and improving the overall aesthetics of the robot.
+The M-20iA/10L is designed for high-speed and precision applications,
+ making it suitable for a wide range of industries including automotive,
+  electronics, and general manufacturing. It is equipped with advanced
+   features such as collision detection and a user-friendly interface for programming and operation.
+
+

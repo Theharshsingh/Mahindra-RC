@@ -31,3 +31,33 @@ move around warehouses and factories without fixed tracks and external guidance
 use LiDAR ,cameras and onboard AI
 
 ex= addverb technologies (india) = grey orange = ai powered sorting 
+Amazon warehouses use AMRs for picking and packing operations
+
+4. humanoid robots
+general purpose robots designed to resemble human form and perform a wide range of tasks
+ex= asimo by honda = research and development
+use sensors and advanced ai for navigation and interaction
+potential applications = customer service , healthcare , entertainment
+
+a. Boston dynamics = humanoid robot "atlas" = advanced mobility and dexterity
+capable of running , jumping and performing complex tasks
+DOF = 56 degrees of freedom for human like movement
+potential applications = search and rescue , industrial inspection , logistics
+
+b. AGIBOT = humanoid robot designed for customer service and hospitality
+capable of greeting customers , providing information and assisting with tasks
+WORK PROCESS = natural language processing + facial recognition
+potential applications = hotels , airports , retail stores
+
+
+
+# INDIAN SPECIFIC ROBOTS
+ADVERB TECHNOLOGIES (INDIA) = grey orange = ai powered sorting and material handling robots for warehouses and factories
+used by e-commerce companies and logistics providers to improve efficiency and reduce labor costs
+COST = 10-30 lakhs depending on configuration and capabilities
+
+MITRA ROBOTICS (INDIA) = humanoid robot designed for customer service and hospitality
+VYOMMITRA = humanoid robot designed for customer service and hospitality
+capable of greeting customers , providing information and assisting with tasks
+
+

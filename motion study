@@ -1,0 +1,27 @@
+# motion study of m 20ia
+
+contains DOF = 6
+MOVEMENT OF M20ia /10l
+
+movement / joint                         motion range(in degree)              max speed (in degrees/sec)
+
+1. Base rotation (axis 1)              340/360                                   195                               
+2. Shoulder movement (axis 2)             +-240                                   175
+3. Elbow movement (axis 3)                +-460                                   180
+4. Wrist pitch (axis 4)                   +-400                                    360/420
+5. Wrist roll (axis 5)                     +-380                                  360/420
+6. Wrist yaw (axis 6) tool                 +-720(-360 to +360)                    700/900
+
+
+relative motion
+1. linear speed of end effector = 10 m/s
+2. acceleration of end effector = 10 m/s^2
+
+TCP 
+1. TCP (Tool Center Point) is a reference point on the end effector of the robot, which is used for programming and controlling the robot's movements.
+FOR MOVEMENT AND ROTATION
+1. The TCP is typically defined as the point where the tool or end effector is attached to the robot's wrist.
+2. The TCP is used to specify the position and orientation of the end effector in space, allowing for precise control of the robot's movements and interactions with objects in its environment.
+3. The TCP can be programmed to move in a straight line, follow a specific path, or perform complex movements and rotations, depending on the requirements of the task at hand.
+
+
