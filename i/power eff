@@ -1,0 +1,24 @@
+some rest of the miscellanous terms
+
+# Power Efficiency
+on the basis of the power factor robo are categorized as
+1. Low Power Factor (LPF) - Power factor less than 0.8
+2. Medium Power Factor (MPF) - Power factor between 0.8 and 0.95
+3. High Power Factor (HPF) - Power factor greater than 0.95
+Power factor is a measure of how effectively electrical power is being used by a device or system. It is defined as the ratio of real power (measured in watts) to apparent power (measured in volt-amperes). A higher power factor indicates more efficient use of electrical power, while a lower power factor indicates less efficient use. In the context of robotics and CNC machines, maintaining a high power factor can help reduce energy consumption and improve overall efficiency.
+
+jog pendant 
+A jog pendant, also known as a manual pulse generator (MPG), is a handheld device used to manually control the movement of a robot or CNC machine. It typically features a rotary dial or joystick that allows the operator to precisely control the speed and direction of the machine's movements. The jog pendant is commonly used for tasks such as positioning the machine for setup, performing manual operations, or making fine adjustments during programming and operation. It provides a convenient and intuitive interface for operators to interact with the machine and ensure accurate control over its movements.
+
+features 
+1. Speed control - The jog pendant allows operators to control the speed of the machine's movements, enabling them to make precise adjustments as needed.
+2. Direction control - The jog pendant allows operators to control the direction of the machine's movements, allowing for easy positioning and adjustments.
+3. Incremental movement - The jog pendant allows operators to make incremental movements, allowing for fine adjustments and precise positioning.
+
+on the basis of power factor , welding robots are more power compatible .
+welding robots
+Welding robots are robotic systems specifically designed for performing welding operations. They are commonly used in manufacturing and industrial settings to automate the welding process, improve efficiency, and ensure consistent quality. Welding robots typically consist of a robotic arm equipped with a welding torch or tool, along with sensors and control systems to guide the welding process. 
+
+fronius
+Fronius is a company that specializes in welding technology and solutions. They offer a range of welding equipment, including welding robots, power sources, and accessories. Fronius welding robots are designed to provide high-quality welding performance, with features such as advanced control systems, precise movement capabilities, and compatibility with various welding processes. Fronius is known for its innovative welding solutions and commitment to quality, making it a popular choice for industries that require reliable and efficient welding automation.
+

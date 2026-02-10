@@ -1,0 +1,21 @@
+this file contains details of the input and output  operation of the CNC machnines 
+operated by robo .
+
+CNC machines 
+input/output = assemblers 
+take the input from the assemblers and provide the output to the fault check belt .
+
+HMI(human machine interface)
+The HMI (Human Machine Interface) is a crucial component in CNC machines, allowing operators to interact with the machine and control its operations. It typically consists of a display screen and input devices such as buttons, touchscreens, or keyboards. The HMI provides a user-friendly interface for operators to input commands, monitor machine status, and receive feedback on the machine's performance. It plays a vital role in ensuring efficient and safe operation of CNC machines by providing real-time information and control capabilities to the operators.
+
+condition foir autocycle 
+The condition for autocycle in CNC machines is typically defined by the operator or programmer based on the specific requirements of the machining process. Autocycle refers to the automatic execution of a predefined sequence of operations without the need for manual intervention. The conditions for autocycle can include factors such as:
+1. Completion of the previous cycle: The autocycle may be triggered once the previous machining cycle is completed, ensuring a continuous workflow.
+2. Sensor inputs: The autocycle can be initiated based on specific sensor inputs, such as the presence of a workpiece or the completion of a certain operation.
+3. Time-based triggers: The autocycle can be set to start at specific time intervals, allowing for scheduled machining operations.
+
+gripper
+A gripper is a mechanical device used in CNC machines and robotic systems to grasp, hold, and manipulate objects. It typically consists of two or more fingers or jaws that can open and close to securely grip the workpiece or tool. Grippers can be designed in various configurations, such as parallel, angular, or vacuum-based, depending on the specific application and requirements. They play a crucial role in automating material handling tasks, improving efficiency, and ensuring precision in CNC machining processes.
+
+light curtain
+A light curtain is a safety device used in CNC machines and robotic systems to protect operators from potential hazards. It consists of a series of infrared light beams that create an invisible barrier around the machine's working area. 

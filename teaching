@@ -1,0 +1,46 @@
+# teaching of FANUC rc 
+1. robot programming - Learning how to program the FANUC robot using its 
+programming language (e.g., KAREL, TP programming) and software (e.g., RoboGuide).
+
+ KAREL, TP programming
+2. robot operation - Understanding how to operate the FANUC robot, including
+safety protocols, manual operation, and troubleshooting.
+3. robot maintenance - Learning how to perform routine maintenance on the FANUC
+robot, such as cleaning, lubrication, and inspection.
+
+teaching modes of robot
+1. safe teaching = PMC  controller
+2. manual/ non - safe teaching = pendant
+3. offline programming = RoboGuide software
+4. simulation teaching = using software to simulate robot movements and operations before implementing them on the actual robot.
+
+teach pendent
+The teach pendant is a handheld device used to program and control the FANUC robot. It allows operators to manually guide the robot through its movements and operations, making it an essential tool for teaching the robot new tasks and functions. The teach pendant typically features a display screen, buttons, and a joystick for controlling the robot's movements. It is used in manual or non-safe teaching modes, where the operator can directly interact with the robot to teach it specific tasks or movements.
+
+karel language
+KAREL is a high-level programming language used for programming FANUC robots. It is designed to be easy to learn and use, allowing programmers to create complex robot programs with relative ease. KAREL programs are typically written in a text editor and then compiled and downloaded to the robot controller. KAREL provides a range of functions and commands for controlling the robot's movements, I/O operations, and other functions, making it a powerful tool for programming FANUC robots.
+
+ operation 
+ operated by disc pendant (jog pendant) 
+ pre define set of code - sequential set of operations
+ contains time lapse between CNC  machines and the rc 
+ 99% work = hold + welding and handling
+
+  joint point 
+    1. point to point (PTP) - The robot moves from one point to another in a straight line, without any specific path or trajectory.
+    2. linear (LIN) - The robot moves in a straight line between two points, following a specific path or trajectory.
+    3. circular (CIRC) - The robot moves in a circular path between two points, following a specific radius and center point.
+    4. spline (SPL) - The robot moves along a smooth curve defined by a series of points, allowing for more complex movements and trajectories.
+
+
+    robot control
+    1. position control - The robot's movements are controlled based on its position in space, allowing for precise control over its movements and operations.
+    2. speed control - The robot's movements are controlled based on its speed, allowing for faster or slower movements depending on the task at hand.
+    3. force control - The robot's movements are controlled based on the amount of force it is applying, allowing for delicate operations or tasks that require a specific amount of force.
+    4. torque control - The robot's movements are controlled based on the amount of torque it is applying, allowing for tasks that require a specific amount of torque or rotational force.
+
+    pascal resemblance
+    KAREL programming language has some resemblance to the Pascal programming language, as both languages share similar syntax and structure. Both KAREL and Pascal use a block-structured approach to programming, with similar control structures such as loops and conditionals. However, KAREL is specifically designed for programming FANUC robots and includes additional functions and commands that are specific to robot control and operations.
+
+
+
